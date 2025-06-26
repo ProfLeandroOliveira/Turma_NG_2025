@@ -5,6 +5,8 @@ body{
     font-family: sans-serif;
 }
 header{
-    border-bottom: solid 2px black;
+    border-bottom: solid 2px rgb(9, 235, 28);
     padding: 20px;
+    font-size: 40px;
+    color: rgb(241, 6, 18);
 }
