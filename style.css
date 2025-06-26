@@ -5,5 +5,5 @@ body{
     font-family: sans-serif;
 }
 header{
-    border: solid 2px black;
+    border-bottom: solid 2px black;
 }
