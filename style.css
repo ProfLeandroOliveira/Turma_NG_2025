@@ -1,7 +1,9 @@
 body{
     background-color: rgb(40, 204, 216);
     color: rgba(216, 16, 16, 0.685);
-
     margin: 0px;
     font-family: sans-serif;
+}
+header{
+    border: solid 2px black;
 }
